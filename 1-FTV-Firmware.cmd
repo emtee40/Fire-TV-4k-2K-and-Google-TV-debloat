@@ -6,7 +6,7 @@ Echo.
 Echo FirmwareUpdate for Fire TV Stick 4k
 Echo.
 
-set Firmware2k="ftvs2k-5.2.8.2p.zip"
+set Firmware2k="ftvs2k-5.2.8.2.zip"
 set Firmware4k="ftvs4k-6.2.8.1r2.zip"
 
 echo.
