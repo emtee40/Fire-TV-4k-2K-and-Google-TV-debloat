@@ -15,7 +15,7 @@ Fire TV 4k , 2K and Google TV debloat
 
 2, Download Firmware 
 
-   2k = https://www.mediafire.com/file/mlqr4gvsjpbhjs9/ftvs2k-5.2.8.2.zip/file
+   2k = https://www.mediafire.com/file/w0kxioqooow8ns2/ftvs2k-5.2.8.2.zip/file
 
    4k = https://www.mediafire.com/file/d8y55woimj4bqr0/ftvs4k-6.2.8.1r2.zip/file
 
